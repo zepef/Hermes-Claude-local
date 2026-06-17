@@ -277,6 +277,4 @@ claude -p --model opus --output-format json
 Réponse JSON -> proxy -> SSE stream -> Hermes
 ```
 
-Merci à:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone asked for a quick, simple way to run Opus in Hermes on your normal Claude subscription, no API key:<br><br>- 𝗧𝗵𝗲 𝗽𝗿𝗼𝘅𝘆: spin up a local OpenAI-compatible proxy that wraps claude -p, add it to Hermes as a custom provider<br>- 𝗦𝘄𝗶𝘁𝗰𝗵 𝘁𝗼 𝗶𝘁: /model… <a href="https://t.co/OBLRUTxcfs">https://t.co/OBLRUTxcfs</a></p>&mdash; Vox (@Voxyz_ai) <a href="https://x.com/Voxyz_ai/status/2066918005380878572?ref_src=twsrc%5Etfw">June 16, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
+Merci à: https://x.com/Voxyz_ai/status/2066918005380878572?s=20
